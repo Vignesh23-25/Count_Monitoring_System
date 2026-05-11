@@ -33,3 +33,4 @@ This project is an automated count monitoring system for a leather factory. It i
 1. **ESP32** detects a button press and publishes a JSON payload to the MQTT broker on your PC.
 2. **Backend** subscribes to MQTT topics, receives the data, and broadcasts it to all connected web clients via **Socket.io**.
 3. **Frontend** listens for Socket.io messages and updates the dashboard in real-time.
+"# Count_Monitoring_System" 
