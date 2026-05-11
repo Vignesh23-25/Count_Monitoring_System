@@ -1,0 +1,17 @@
+
+@import "tailwindcss";
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+
+*{
+   font-family: "Doppio One", sans-serif;
+}
+
+.active{
+    background-color: #ffebf5;
+    border-color: #c586a5;
+}
